@@ -1,0 +1,28 @@
+
+h1 {
+    color: deeppink;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+h3 {
+    color: rgb(167, 226, 30);
+}
+
+.a1 a {
+          text-decoration: none;
+          padding-left: 9px;
+          line-height: 35px;
+          font-size: 20px;  
+}
+
+ul li {
+        list-style-position: inside;
+}
+
+ol li {
+    list-style-position: inside;
+    
+}
